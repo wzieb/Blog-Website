@@ -1,0 +1,38 @@
+  .main-box{
+  display:flex;
+  flex-direction: column;
+  border: 1px solid seagreen;
+  margin-top:50px;
+  padding-bottom:50px;
+  padding-left:50px;
+  padding-right:50px;
+  margin-left:75px;
+  margin-right:160px;
+  border-radius: 20px;
+
+   /* border-style:how to get wavy border?  */
+  }
+#blogEntry{
+  display:flex;
+  flex-direction: column;
+}
+/* button{
+  padding-left: 50px;
+  border-radius: 20px;
+
+} */
+ .dark-mode{
+  width:60px;
+
+} 
+/* 
+input{
+  display:block;
+  width:300px;
+  background-color: lightgray;
+  margin-bottom:5px;
+}
+button {
+  display:inline-block;
+  width:100px;;
+  /* can't get these buttons to show up next to each other?? */
