@@ -1,4 +1,4 @@
-##Blog Website##
+## Blog Website
 
 This blog website is a web-based application that allows a user to add blog posts to a website. 
 This website contains a basic structure. Users enter a username, title, and content of their blog post. 
